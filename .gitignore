@@ -41,3 +41,5 @@ phoenix-*.ez
 # Ignore nix related files
 .direnv
 .nix-*
+
+/.elixir_ls/
